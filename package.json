@@ -3,13 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "node ./node_modules/\\\\@vue/cli-service/bin/vue-cli-service.js serve --open",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^2.6.14"
+    "vue": "^2.6.14",
+    "bootstrap": "^5.1.0",
+    "bootstrap-vue": "^2.21.2",
+    "node-sass": "^6.0.1",
+    "sass": "^1.38.0",
+    "sass-loader": "^10",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
