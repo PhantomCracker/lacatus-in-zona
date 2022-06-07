@@ -113,7 +113,7 @@ export default {
       }
     }
     .hero-nav-phone {
-      background: $ourRed;
+      background: $ourBlue;
       border-radius: 10px;
       padding: 3px 12px;
     }
