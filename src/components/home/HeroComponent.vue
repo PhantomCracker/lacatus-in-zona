@@ -6,7 +6,7 @@
         <div class="col-12 col-lg-6 d-flex align-self-center flex-column mt-md-0 pb-3">
           <h1 class="text-white text-start"><span class="my-blue">Servicii de lăcătuș</span> disponibile 24/7</h1>
           <ul class="with-border bg-black">
-            <li class="text-white text-start pl-2 pt-2">Cele mai bune prețuri începand cu</li>
+            <li class="text-white text-start pl-2 pt-2">Cele mai bune prețuri începand cu 49RON</li>
             <li class="text-white text-start pl-2">Rambursarea banilor garantată dacă nu am remediat problema </li>
             <li class="text-white text-start pl-2 pb-2">Gamă completă de ustensile pentru a vă oferi cele mai profesionale servicii</li>
           </ul>

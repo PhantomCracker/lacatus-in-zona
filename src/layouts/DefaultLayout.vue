@@ -13,7 +13,7 @@
                 <router-link :to="{ path: '/despre-noi' }" class="nav-link ps-3 pe-3">Despre noi</router-link>
               </li>
               <li class="nav-item">
-                <router-link :to="{ path: '/locksmith-near-me' }" class="nav-link ps-3 pe-3 fw-bold">Zone acoperite</router-link>
+                <router-link :to="{ path: '/zone-acoperite' }" class="nav-link ps-3 pe-3 fw-bold">Zone acoperite</router-link>
               </li>
             </ul>
           </div>

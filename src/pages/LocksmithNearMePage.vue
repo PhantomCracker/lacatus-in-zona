@@ -1,12 +1,12 @@
 <template>
-  <Locksmiths />
+  <LocksmithNearMe />
 </template>
 
 <script>
-import Locksmiths from "@/components/locksmith-near-me/Locksmiths";
+import LocksmithNearMe from "@/components/locksmith-near-me/LocksmithNearMe";
 export default {
   name: "LocksmithNearMePage",
-  components: {Locksmiths}
+  components: {LocksmithNearMe}
 }
 </script>
 
