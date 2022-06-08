@@ -10,7 +10,7 @@
                 <router-link :to="{ path: '/' }" class="nav-link ps-3 pe-3">Home</router-link>
               </li>
               <li class="nav-item">
-                <router-link :to="{ path: '/about-us' }" class="nav-link ps-3 pe-3">Despre noi</router-link>
+                <router-link :to="{ path: '/despre-noi' }" class="nav-link ps-3 pe-3">Despre noi</router-link>
               </li>
               <li class="nav-item">
                 <router-link :to="{ path: '/locksmith-near-me' }" class="nav-link ps-3 pe-3 fw-bold">Zone acoperite</router-link>
@@ -161,7 +161,6 @@ export default {
       font-size:18px;
       background-color:#CCC;
     }
-
     .float{
       position:fixed;
       width:60px;
@@ -174,7 +173,6 @@ export default {
       text-align:center;
       box-shadow: 2px 2px 3px #999;
     }
-
     .fa-whatsapp {
       fill: white;
       width: 60px;
@@ -184,7 +182,6 @@ export default {
       padding: 7px;
       border: 2px solid $ourBlack;
     }
-
     .float-phone {
       position:fixed;
       width:60px;
