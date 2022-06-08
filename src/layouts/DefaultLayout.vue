@@ -32,7 +32,7 @@
             <div class="col-12 col-lg-6 pt-lg-0 align-self-center">
               <div class="navbar-collapse px-5 d-flex justify-content-center navbar-nav pt-3 pt-lg-0">
                 <div class="nav-item hero-nav-phone align-self-center">
-                  <a href="tel:01173256595" class="nav-link phone ps-3 pe-3">Call us now! <br/></a>
+                  <a href="tel:01173256595" class="nav-link phone ps-3 pe-3">Sună acum! <br/></a>
                 </div>
               </div>
             </div>
@@ -138,6 +138,10 @@ export default {
     padding: 0;
     margin: 0;
   }
+  .brand-logo-light {
+    width: 50%;
+  }
+
   // WhatsApp button
   @media screen and (max-width: 700px)  {
     .crazy-row {
