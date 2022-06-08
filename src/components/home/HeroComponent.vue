@@ -11,7 +11,7 @@
             <li class="text-white text-start pl-2 pb-2">Gamă completă de ustensile pentru a vă oferi cele mai profesionale servicii</li>
           </ul>
           <button class="btn btn-primary w-100 my-primary-btn mt-1">
-            <a class="text-white text-decoration-none" href="tel:01173256595">Serviciu la fața locului în maxim 25 de minute</a>
+            <a class="text-white text-decoration-none" href="tel:01173256595"><font-awesome-icon icon="phone-alt" style="margin-right: 10px" />Serviciu la fața locului în maxim 25 de minute</a>
           </button>
         </div>
       </div>
