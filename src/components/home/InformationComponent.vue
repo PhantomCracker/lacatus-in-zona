@@ -16,7 +16,7 @@
         <p>Echipele noastre de lăcătuși sunt foarte bine pregătite pentru a oferi sfaturi de securitate pentru o mare varietate de aplicabilități. Furnizăm și montăm toate mărcile majore de încuietori și fitinguri de securitate. Serviciul nostru de apelare de urgență 24/7 se va asigura că proprietatea dumneavoastră este securizată rapid și eficient. Suntem întotdeauna gata să ajutăm clienții noștri cu cea mai bună echipă de lăcătuși profesioniști oriunde v-ați afla, puteți fi sigur că avem echipa potrivită lângă dumneavoastră, gata să vă asiste 24 de ore, 7 zile pe săptămână.</p>
         <p class="small-text">Lăcătușii noștri se află în apropierea dumneavoastră, la doar 25 de minute distanță. Manopera de la 49 GBP și încuietori de la 25 GBP cu garanție de 12 luni.</p>
         <button class="btn btn-primary my-primary-btn mt-4">
-          <a class="text-white text-decoration-none" href="tel:03333446467"><font-awesome-icon icon="phone-alt" style="margin-right: 10px" />Sună acum!</a>
+          <a class="text-white text-decoration-none" href="tel:+40310051198"><font-awesome-icon icon="phone-alt" style="margin-right: 10px" />Sună acum!</a>
         </button>
       </div>
     </div>

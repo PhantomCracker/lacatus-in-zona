@@ -12,7 +12,7 @@
               <li class="text-white">Gamă completă de ustensile pentru a vă oferi cele mai profesionale servicii</li>
             </ul>
             <button class="btn btn-primary align-self-center my-primary-btn mt-4">
-              <a class="text-white text-decoration-none" href="tel:03333446467"><font-awesome-icon icon="phone-alt" style="margin-right: 10px" />Sună acum!</a>
+              <a class="text-white text-decoration-none" href="tel:+40310051198"><font-awesome-icon icon="phone-alt" style="margin-right: 10px" />Sună acum!</a>
             </button>
           </div>
         </div>
