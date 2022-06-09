@@ -39,13 +39,13 @@
           <h5 class="pb-4">Acoperim mai multe zone din România cu lăcătuși profesioniști chiar în apropierea dumneavoastră:</h5>
           <div class="row">
             <div class="col-12 col-md-12">
-              <router-link :to="{ name: 'București-Sector-1' }"><p>București-Sector-1</p></router-link>
-              <router-link :to="{ name: 'București-Sector-2' }"><p>București-Sector-2</p></router-link>
-              <router-link :to="{ name: 'București-Sector-3' }"><p>București-Sector-3</p></router-link>
-              <router-link :to="{ name: 'București-Sector-4' }"><p>București-Sector-4</p></router-link>
-              <router-link :to="{ name: 'București-Sector-5' }"><p>București-Sector-5</p></router-link>
-              <router-link :to="{ name: 'București-Sector-6' }"><p>București-Sector-6</p></router-link>
-              <router-link :to="{ name: 'Ilfov' }"><p>Ilfov</p></router-link>
+              <router-link :to="{ name: 'BucurestiS1Page' }"><p>București-Sector-1</p></router-link>
+              <router-link :to="{ name: 'BucurestiS2Page' }"><p>București-Sector-2</p></router-link>
+              <router-link :to="{ name: 'BucurestiS3Page' }"><p>București-Sector-3</p></router-link>
+              <router-link :to="{ name: 'BucurestiS4Page' }"><p>București-Sector-4</p></router-link>
+              <router-link :to="{ name: 'BucurestiS5Page' }"><p>București-Sector-5</p></router-link>
+              <router-link :to="{ name: 'BucurestiS6Page' }"><p>București-Sector-6</p></router-link>
+              <router-link :to="{ name: 'IlfovPage' }"><p>Ilfov</p></router-link>
             </div>
           </div>
 <!--          <ul class="cities">-->
