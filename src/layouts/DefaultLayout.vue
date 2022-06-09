@@ -58,7 +58,7 @@
               <ul class="contact-list">
 <!--                <li>ADDRESS: <span>Uk Local Services Ltd 89 Brent Street</span></li>-->
 <!--                <li>EMAIL: <a href="mailto:#"><span>office@uklocallocksmith.co.uk</span></a></li>-->
-                <li>PHONE: <a href="tel:+40310051198"><span>+40310051198</span></a></li>
+                <li>Telefon: <a href="tel:+40310051198"><span>+40310051198</span></a></li>
               </ul>
             </div>
           </div>
