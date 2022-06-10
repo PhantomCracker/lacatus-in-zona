@@ -7,6 +7,11 @@ import LocksmithNearMe from "@/components/locksmith-near-me/LocksmithNearMe";
 export default {
   name: "LocksmithNearMePage",
   components: {LocksmithNearMe},
+  methods: {
+    track () {
+      this.$ga.page('/zone-acoperite')
+    }
+  },
   metaInfo: {
     title: 'Servicii de lăcătuș în regim de urgență',
     meta: [

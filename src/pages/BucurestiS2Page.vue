@@ -36,6 +36,11 @@ import InformationComponent from "@/components/home/InformationComponent";
 export default {
   name: "BucurestiS1Page",
   components: {InformationComponent, ChooseUs, AboutTechnicians, ServiceCard, ServicesOnTop},
+  methods: {
+    track () {
+      this.$ga.page('/bucuresti-sector2')
+    }
+  },
   metaInfo: {
     title: 'Servicii de lăcătuș în regim de urgență | București - Sector 2',
     meta: [

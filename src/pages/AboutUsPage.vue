@@ -7,6 +7,11 @@ import AboutUs from "@/components/about-us/AboutUs";
 export default {
   name: "AboutUsPage",
   components: {AboutUs},
+  methods: {
+    track () {
+      this.$ga.page('/despre-noi')
+    }
+  },
   metaInfo: {
     title: 'Servicii de lăcătuș în regim de urgență',
     meta: [

@@ -27,6 +27,11 @@ export default {
     ServicesOnTop,
     HeroComponent
   },
+  methods: {
+    track () {
+      this.$ga.page('/')
+    }
+  },
   metaInfo: {
     title: 'Servicii de lăcătuș în regim de urgență',
     meta: [

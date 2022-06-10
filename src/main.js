@@ -3,6 +3,7 @@ import App from './App.vue'
 import router from './router'
 import BootstrapVue from 'bootstrap-vue/dist/bootstrap-vue.esm';
 import VueMeta from 'vue-meta';
+import VueAnalytics from 'vue-analytics'
 
 import 'bootstrap-vue/dist/bootstrap-vue.css';
 import 'bootstrap/dist/css/bootstrap.css';
@@ -16,6 +17,9 @@ Vue.component('font-awesome-icon', FontAwesomeIcon)
 
 Vue.use(BootstrapVue);
 Vue.use(VueMeta);
+Vue.use(VueAnalytics, {
+  id: 'UA-231675219-1'
+})
 Vue.config.productionTip = false
 
 new Vue({

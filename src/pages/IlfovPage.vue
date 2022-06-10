@@ -36,6 +36,11 @@ import InformationComponent from "@/components/home/InformationComponent";
 export default {
   name: "IlfovPage",
   components: {InformationComponent, ChooseUs, AboutTechnicians, ServiceCard, ServicesOnTop},
+  methods: {
+    track () {
+      this.$ga.page('/ilfov')
+    }
+  },
   metaInfo: {
     title: 'Servicii de lăcătuș în regim de urgență | Ilfov',
     meta: [
