@@ -38,7 +38,7 @@ export default new Router({
                     component: LocksmithNearMePage
                 },
                 {
-                    path: '/bucuresti-sector1',
+                    path: '/bucuresti',
                     name: 'BucurestiS1Page',
                     component: BucurestiS1Page
                 },

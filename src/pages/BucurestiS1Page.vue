@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row pt-5 pb-5">
           <div class="col-lg-12 d-flex align-self-center flex-column mt-3 mt-md-0 pb-4">
-            <h1 class="text-white text-start text-center">Lăcătuș în zonă -<span class="my-yellow"> București Sector 1</span></h1>
+            <h1 class="text-white text-start text-center">Lăcătuș în zonă -<span class="my-yellow"> București</span></h1>
             <ul class="text-center ps-0 pt-2">
               <li class="text-white"><h3><span class="fw-bold">Deblocare uși în regim de urgență</span></h3></li>
               <li class="text-white">Cele mai bune prețuri începand cu 49RON</li>
@@ -38,11 +38,11 @@ export default {
   components: {InformationComponent, ChooseUs, AboutTechnicians, ServiceCard, ServicesOnTop},
   methods: {
     track () {
-      this.$ga.page('/bucuresti-sector1')
+      this.$ga.page('/bucuresti')
     }
   },
   metaInfo: {
-    title: 'Servicii de lăcătuș în regim de urgență | București - Sector 1',
+    title: 'Servicii de lăcătuș în regim de urgență | București',
     meta: [
       {
         charset: 'utf-8'
