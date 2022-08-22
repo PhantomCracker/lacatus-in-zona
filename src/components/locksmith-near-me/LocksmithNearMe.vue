@@ -36,7 +36,7 @@
       <div class="row pt-4 pb-5">
         <div class="col-12">
           <img src="../../assets/logo.png" alt="main-logo" class="pb-5 w-50" />
-          <h5 class="pb-4">Acoperim mai multe zone din România cu lăcătuși profesioniști chiar în apropierea dumneavoastră:</h5>
+          <h5 class="pb-4">Acoperim mai multe zone din România cu lăcătuși profesioniști chiar în apropierea dumneavoastră: </h5>
           <div class="row">
             <div class="col-12 col-md-12">
               <router-link :to="{ name: 'BucurestiS1Page' }"><p>București</p></router-link>
